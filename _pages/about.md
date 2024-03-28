@@ -21,7 +21,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am a second year Master's student pursuing a degree in Electrical & Computer Engineering, focusing in Signal & Image Processing and Machine Learning. My research interests include Multimodal Learning, Representation Learning, Continual Learning and Domain Adaptation. I am looking for labs and research groups to join working on the similar research interests. I am also open to collaborations and discussions on the same.
+I am a Master's student pursuing a degree in Electrical & Computer Engineering, focusing in Signal & Image Processing and Machine Learning. My research interests include Multimodal Learning, Representation Learning, Continual Learning and Domain Adaptation. I am looking for labs and research groups to join working on the similar research interests. I am also open to collaborations and discussions on the same.
 
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.

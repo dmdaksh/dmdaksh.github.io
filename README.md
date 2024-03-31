@@ -8,7 +8,6 @@ This is the repository for my website. It is built using [Jekyll](https://jekyll
 
 This website is based on the [al-folio](https://github.com/alshedivat/al-folio) theme. For more information on using the theme, please refer to the [documentation](https://github.com/alshedivat/al-folio/blob/master/CUSTOMIZE.md).
 
-
 ## Running the website locally
 
 To run the website locally, you must install Docker on your machine. You can download Docker from [here](https://www.docker.com/get-started).

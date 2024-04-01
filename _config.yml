@@ -398,6 +398,7 @@ jekyll_get_json:
 jsonresume:
   - basics
   # - work
+  - teaching experience
   - industry experience
   - education
   - publications

@@ -107,6 +107,8 @@ layout: default
                   {% include resume/references.liquid %}
                 {% when 'industry experience' %}
                   {% include resume/work.liquid %}
+                {% when 'teaching experience' %}
+                  {% include resume/work.liquid %}
                 {% else %}
 
               {% endcase %}

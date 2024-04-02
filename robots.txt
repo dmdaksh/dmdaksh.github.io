@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://dmdaksh.github.io/sitemap.xml
+Sitemap: https://dmdaksh.com/sitemap.xml

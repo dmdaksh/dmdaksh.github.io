@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: Representation Learning for Medical Images and Reports 
+# description: a project with a background image
 img: assets/img/12.jpg
 importance: 1
-category: work
+# category: Aug 2023 - Dec 2023
 related_publications: true
 ---
 

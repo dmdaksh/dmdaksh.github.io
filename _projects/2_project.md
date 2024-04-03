@@ -3,7 +3,7 @@ layout: page
 title: Domain Adaptation & Doman Generalization for Glaucoma Classification
 description: QTIM Lab, University of Colorado, Anschutz Medical Campus
 img: assets/img/imgP2.jpg
-importance: 2
+importance: 1
 category: May 2023 - Jul 2023
 giscus_comments: true
 ---

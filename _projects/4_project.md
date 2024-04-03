@@ -3,7 +3,7 @@ layout: page
 title: Study on Implicit Bias in terms of Optimization Geometry
 description: University of Michigan
 img: assets/img/imgP4.jpg
-importance: 4
+importance: 2
 category: Jan 2023 - Apr 2023
 ---
 

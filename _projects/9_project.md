@@ -3,7 +3,7 @@ layout: page
 title: EEG-based Emotion Recognition using Rhythm-Specific Deep CNNs
 description: Prof. Rajesh Kumar Tripathy, BITS Pilani
 img: assets/img/imgP9.jpg
-importance: 9
+importance: 1
 category: 2018 - 2020
 ---
 

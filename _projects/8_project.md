@@ -3,7 +3,7 @@ layout: page
 title: Discriminating Gait for Different Surfaces
 description: 2020 - 2021
 img: assets/img/imgP8.jpg
-importance: 8
+importance: 1
 category: Prof. Rajesh Kumar Tripathy, BITS Pilani
 ---
 

@@ -1,9 +1,9 @@
 ---
 layout: page
 title: Pushing the limits of Random Consensus Robust PCA
-# description: a project that redirects to another website
+description: University of Michigan
 img: assets/img/imgP3.jpg
-importance: 3
+importance: 1
 category: Jan 2023 - Apr 2023
 ---
 

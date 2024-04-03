@@ -3,7 +3,7 @@ layout: page
 title: Ultrasound, CT, MRI Reconstruction
 description: Aug 2022 - Dec 2022
 img: assets/img/imgP7.jpg
-importance: 7
+importance: 1
 category: University of Michigan
 ---
 

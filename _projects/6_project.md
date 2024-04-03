@@ -1,10 +1,10 @@
 ---
 layout: page
 title: MR-based in-vivo Microstructural Imaging 
-# description: a project with no image
-img:
+description: Dr. Yue Cao, Department of Radiation Oncology, University of Michigan
+img: assets/img/imgP6.jpg
 importance: 6
-# category: fun
+category: Sep 2022 - Apr 2023
 ---
 
 Every project has a beautiful feature showcase page.

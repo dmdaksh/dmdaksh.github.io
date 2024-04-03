@@ -1,10 +1,10 @@
 ---
 layout: page
 title: CARETS: CAncer RElated Terms Search 
-# description: a project with a background image
-img: assets/img/1.jpg
-importance: 3
-# category: fun
+description: University of Michigan
+img: assets/img/imgP5.jpg
+importance: 5
+category: Jan 2023 - Apr 2023
 ---
 
 Every project has a beautiful feature showcase page.

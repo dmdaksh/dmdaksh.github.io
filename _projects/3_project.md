@@ -2,9 +2,9 @@
 layout: page
 title: Pushing the limits of Random Consensus Robust PCA
 # description: a project that redirects to another website
-img: assets/img/7.jpg
+img: assets/img/imgP3.jpg
 importance: 3
-# category: work
+category: Jan 2023 - Apr 2023
 ---
 
 Every project has a beautiful feature showcase page.

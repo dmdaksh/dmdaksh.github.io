@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Representation Learning for Medical Images and Reports 
-description: University of Michigan
-img: assets/img/imgP1.jpg
-importance: 1
-category: Aug 2023 - Dec 2023
-# related_publications: true
+title: EEG-based Emotion Recognition using Rhythm-Specific Deep CNNs
+description: Prof. Rajesh Kumar Tripathy, BITS Pilani
+img: assets/img/imgP9.jpg
+importance: 9
+category: 2018 - 2020
 ---
 
 Every project has a beautiful feature showcase page.
@@ -44,8 +43,8 @@ To give your project a background in the portfolio page, just add the img tag to
     This image can also have a caption. It's like magic.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
+You can also put regular text between your rows of images.
+Say you wanted to write a little bit about your project before you posted the rest of the images.
 You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
 
 <div class="row justify-content-sm-center">

@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Domain Adaptation & Doman Generalization for Glaucoma Classification
-# description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+description: QTIM Lab, University of Colorado, Anschutz Medical Campus
+img: assets/img/imgP2.jpg
 importance: 2
-# category: work
+category: May 2023 - Jul 2023
 giscus_comments: true
 ---
 

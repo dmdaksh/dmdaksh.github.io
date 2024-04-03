@@ -5,7 +5,7 @@ permalink: /projects/
 # description: A growing collection of your cool projects.
 nav: true
 nav_order: 3
-# display_categories: [Aug 2023 - Dec 2023]
+display_categories: [Aug 2023 - Dec 2023, May 2023 - Jul 2023, Jan 2023 - Apr 2023, Sep 2022 - Apr 2023, Aug 2022 - Dec 2022, 2020 - 2021, 2018 - 2020]
 horizontal: true
 ---
 

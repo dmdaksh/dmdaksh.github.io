@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Study on Implicit Bias in terms of Optimization Geometry
-# description: another without an image
-img:
+description: University of Michigan
+img: assets/img/imgP4.jpg
 importance: 4
-# category: fun
+category: Jan 2023 - Apr 2023
 ---
 
 Every project has a beautiful feature showcase page.

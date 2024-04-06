@@ -1,7 +1,7 @@
 {% assign education = site.data.resume.education %}
-<div class="education-section">
+<div>
   {% for edu in education %}
-    <div class="education-entry" style="display: flex; justify-content: space-between; align-items: baseline;">
+    <div style="display: flex; justify-content: space-between; align-items: baseline;">
       <div>
         <h3>{{ edu.institution }}</h3>
         <p>
@@ -31,7 +31,7 @@
       </div>
       <div style="text-align: right;">
         <!--
-          <span class="badge text-uppercase" style="min-width: 75px">
+          <span class="text-uppercase" style="min-width: 75px">
           {{ edu.startDate | date: "%b %Y" }} - {{ edu.endDate | date: "%b %Y" }}
           </span>
         -->

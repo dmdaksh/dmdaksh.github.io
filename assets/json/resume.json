@@ -27,9 +27,11 @@
       "institution": "University of Michigan, Ann Arbor",
       "location": "Ann Arbor, Michigan",
       "url": "https://ece.engin.umich.edu/",
-      "area": "Electrical and Computer Engineering - Signal & Image Processing and Machine Learning",
+      "area": "Electrical and Computer Engineering",
+      "specialization": "Signal Processing and Image Processing & Machine Learning",
+      "transcript": "daksh-UMich-transcript.pdf",
       "studyType": "Master of Science",
-      "startDate": "2022-06-01",
+      "startDate": "2022-08-01",
       "endDate": "2024-04-01",
       "score": "3.81/4.0",
       "courses": []
@@ -40,7 +42,7 @@
       "url": "https://www.bits-pilani.ac.in/",
       "area": "Electronics and Instrumentation Engineering",
       "studyType": "Bachelor of Engineering",
-      "startDate": "2016-06-01",
+      "startDate": "2016-07-01",
       "endDate": "2020-05-01",
       "score": "8.1/10.0",
       "courses": []

@@ -57,13 +57,13 @@
       "summary": ""
     }
   ],
-  "teaching experience":[
-      {
-        "name": "SI-330: Data Manipulation",
-        "position": "Graduate Student Instructor",
-        "startDate": "2023-08-01",
-        "endDate": "2024-05-01"
-      }
+  "teaching experience": [
+    {
+      "name": "SI-330: Data Manipulation",
+      "position": "Graduate Student Instructor",
+      "startDate": "2023-08-01",
+      "endDate": "2024-05-01"
+    }
   ],
   "industry experience": [
     {

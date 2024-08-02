@@ -199,19 +199,39 @@
       "name": "Programming Languages",
       "level": "",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["Python", "C++", "Rust", "MATLAB", "PL/SQL", "Java", "Julia"]
+      "keywords": [
+        "Python",
+        "C++",
+        "Rust",
+        "MATLAB",
+        "PL/SQL",
+        "Java",
+        "Julia"
+      ]
     },
     {
       "name": "Machine Learning Frameworks",
       "level": "",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["PyTorch", "Tensorflow", "JAX", "TinyGrad"]
+      "keywords": [
+        "PyTorch",
+        "Tensorflow",
+        "JAX",
+        "TinyGrad"
+      ]
     },
     {
       "name": "Software Developement Frameworks",
       "level": "",
       "icon": "fa-solid fa-hashtag",
-      "keywords": ["Flask", "FastAPI", "Django", "Oracle ADF", "Oracle JET", "Next.js"]
+      "keywords": [
+        "Flask",
+        "FastAPI",
+        "Django",
+        "Oracle ADF",
+        "Oracle JET",
+        "Next.js"
+      ]
     }
   ]
 }

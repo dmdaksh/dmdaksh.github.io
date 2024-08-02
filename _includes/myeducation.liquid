@@ -1,0 +1,44 @@
+{% assign education = site.data.resume.education %}
+<div>
+  {% for edu in education %}
+    <div style="display: flex; justify-content: space-between; align-items: baseline;">
+      <div>
+        <h3>{{ edu.institution }}</h3>
+        <p>
+          <strong>{{ edu.studyType }} - {{ edu.area }}</strong>
+        </p>
+        {% if edu.specialization %}
+          <p>
+            <em>Specialization: {{ edu.specialization }}</em>
+          </p>
+        {% endif %}
+        {% if edu.score %}
+          <p>
+            GPA:
+            {% if edu.transcript %}
+              <a
+                href="{{ edu.transcript | prepend: 'assets/pdf/' | relative_url }}"
+                rel="noopener noreferrer"
+                target="_blank"
+              >
+                {{- edu.score -}}
+              </a>
+            {% else %}
+              {{ edu.score }}
+            {% endif %}
+          </p>
+        {% endif %}
+      </div>
+      <div style="text-align: right;">
+        <p class="text-uppercase" style="margin-bottom: 0; font-size: 0.8rem;">
+          {{ edu.startDate | date: '%b %Y' }} - {{ edu.endDate | date: '%b %Y' }}
+        </p>
+        <p class="location">
+          <i class="fa-solid fa-location-dot iconlocation"></i>
+          {{ edu.location }}
+        </p>
+      </div>
+    </div>
+    {% unless forloop.last %}<hr>{% endunless %}
+  {% endfor %}
+</div>

@@ -1,14 +1,21 @@
 github_users:
-  - torvalds
-  - alshedivat
+  # - torvalds
+  # - alshedivat
+  - dmdaksh
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - dmdaksh/multi-channel-eeg-deep-cnn-emotion-recognition
+  - dmdaksh/VibeSync
+  - dmdaksh/CARETS-APP
+  - dmdaksh/Medical-Image-Reconstruction
+  - dmdaksh/glaucoma_classification
+  - dmdaksh/sparse-coding-super-resolution
+  # - alshedivat/al-folio
+  # - jekyll/jekyll
+  # - twbs/bootstrap
+  # - jquery/jquery
+  # - FortAwesome/Font-Awesome
+  # - mathjax/MathJax
+  # - jpswalsh/academicons
